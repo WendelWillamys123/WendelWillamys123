@@ -12,7 +12,7 @@
 
 Oi, meu nome é Wendel Willamys
 
-Sou um desenvolvedor Back-end JavaScript, **18 anos** e **4 anos programando**
+Sou um desenvolvedor Back-end JavaScript, **18 anos** e **4 anos estudando programação**
 
 ----
 
