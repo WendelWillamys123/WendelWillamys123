@@ -1,7 +1,7 @@
 ### 👋 Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-<a href="https://www.instagram.com/@w.end.el_/">
-  <img src="https://img.shields.io/badge/INSTAGRAM-ff5555?&style=for-the-badge&logo=instagram&logoColor=ff5555&label=lemon._.punch" />
+<a href="https://www.instagram.com/w.end.el_/">
+  <img src="https://img.shields.io/badge/INSTAGRAM-ff5555?&style=for-the-badge&logo=instagram&logoColor=ff5555&label=Wendel Willamys" />
 </a>
 
 <a href="https://www.linkedin.com/in/wendel-willamys-8231b3196/">
