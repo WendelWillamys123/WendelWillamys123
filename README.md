@@ -1,6 +1,6 @@
 ### 👋 Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-<a href="https://www.instagram.com/lemon._.punch/">
+<a href="https://www.instagram.com/@w.end.el_/">
   <img src="https://img.shields.io/badge/INSTAGRAM-ff5555?&style=for-the-badge&logo=instagram&logoColor=ff5555&label=lemon._.punch" />
 </a>
 
@@ -12,7 +12,7 @@
 
 Oi, meu nome é Wendel Willamys
 
-Sou um desenvolvedor Back-end JavaScript, **18 anos** e **4 anos estudando programação**
+Sou um desenvolvedor Back-end JavaScript, **20 anos** e **4 anos estudando programação**
 
 ----
 
